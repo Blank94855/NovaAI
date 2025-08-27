@@ -1,0 +1,2 @@
+# NovaAI
+Discord AI bot.
